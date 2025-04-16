@@ -113,3 +113,7 @@ td {
 tr:nth-child(even) {
   background-color: aqua;
 }
+
+.peta img {
+  width: 100%;
+}
