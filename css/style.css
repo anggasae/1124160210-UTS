@@ -52,7 +52,8 @@ section {
 }
 
 .home-content {
-  margin-top: 0;
+  display: inline-block;
+  margin-top: 200px;
   margin-bottom: 10rem;
 }
 
@@ -62,4 +63,13 @@ section {
 
 .home-content h3 {
   font-size: 2rem;
+}
+
+img {
+  width: 45vh;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 5rem;
 }
