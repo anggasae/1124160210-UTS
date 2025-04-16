@@ -135,3 +135,25 @@ button {
   justify-content: center;
   color: #000;
 }
+
+footer p {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact {
+  width: 10rem;
+  height: 5rem;
+  display: contents;
+  align-items: center;
+  justify-content: space-between;
+}
