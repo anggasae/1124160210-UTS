@@ -73,3 +73,20 @@ img {
   justify-content: center;
   left: 5rem;
 }
+
+.About {
+  display: flex;
+  align-items: center;
+  margin-left: 5rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  justify-content: space-evenly;
+}
+
+.About h1 {
+  font-size: 3rem;
+}
+
+.About a {
+  color: #000;
+}
